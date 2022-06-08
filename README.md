@@ -28,6 +28,7 @@ Homelab
 - Monitoring / Logging: Grafana, Prometheus
 - Proxing: Traefik
 - Hosting: Node-RED, Homebridge, Minecraft (Java / Bedrock)
+- Developmenting: JavaScript, C#
 
 <!--
 **entertvl/entertvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
