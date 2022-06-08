@@ -21,6 +21,14 @@
 
 Valid proof to above: [Accredible](https://www.credential.net/profile/tomoyataniguchi140965)
 
+## Favorite things
+
+Homelab
+- Infrastructuring: ESXi, Terraform, Docker, Kubernetes
+- Monitoring / Logging: Grafana, Prometheus
+- Proxing: Traefik
+- Hosting: Node-RED, Homebridge, Minecraft (Java / Bedrock)
+
 <!--
 **entertvl/entertvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
