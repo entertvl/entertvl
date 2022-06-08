@@ -6,9 +6,9 @@
 
 <dl>
   <dt>Jan 2021 -</dt>
-  <dd>Full-time at <a href="https://www.cloud-ace.com">Cloud Ace</a>.<br>Architecting and Integrations on Google Cloud.</dd>
+  <dd>Full-time at <a href="https://www.cloud-ace.com">Cloud Ace</a>.<br>Architect and Integrations on Google Cloud.</dd>
   <dt>Apr 2014 - Dec 2020</dt>
-  <dd>Full-time at <i>&lt;Undisclosed&gt;</i>.<br>Engineering EMR/EHR Software(against to Public Nursing Care Insurance in Japan).</dd>
+  <dd>Full-time at <i>&lt;Undisclosed&gt;</i>.<br>Development EMR/EHR Software (against to Public Nursing Care Insurance in Japan).</dd>
 </dl>
 
 ## Credentials
