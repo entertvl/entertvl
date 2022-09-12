@@ -4,6 +4,8 @@
 
 ## Jobs
 
+![](https://img.shields.io/badge/new%20job-not%20looking-inactive?style=flat)
+
 <dl>
   <dt>Jan 2021 -</dt>
   <dd>Full-time at <a href="https://www.cloud-ace.com">Cloud Ace</a>.<br>Architect and Integrations on Google Cloud.</dd>
