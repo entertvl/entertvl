@@ -15,6 +15,7 @@
 
 ## Credentials
 
+- Professional Cloud Developer at 2022
 - Professional Cloud Architect at 2022
 - Professional Cloud Security Engineer at 2022
 - Cloud Digital Leader at 2022
