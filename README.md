@@ -19,6 +19,7 @@
 
 ## Credentials
 
+- Professional Cloud Database Engineer at 2023
 - Professional Cloud Developer at 2022
 - Professional Cloud Architect at 2022
 - Professional Cloud Security Engineer at 2022
