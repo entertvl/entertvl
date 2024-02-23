@@ -19,6 +19,7 @@
 
 ## Credentials
 
+- Professional Cloud Network Engineer (2024)
 - Professional Cloud Database Engineer (2023)
 - Professional Cloud Developer (2022)
 - Professional Cloud Architect (2022)
