@@ -28,7 +28,7 @@
 - Associate Cloud Engineer (2021)
 
 
-Valid proof to above: [Accredible](https://www.credential.net/profile/entertvl)
+Valid proof to above: [Credly](https://www.credly.com/users/entertvl/badges)
 
 ## Favorite things
 
