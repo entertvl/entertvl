@@ -8,7 +8,7 @@
 
 ## Jobs
 
-![](https://img.shields.io/badge/new%20job-not%20looking-inactive?style=flat)
+![](https://img.shields.io/badge/new%20job-%20looking-active?style=flat)
 
 <dl>
   <dt>Jan 2021 - present</dt>
