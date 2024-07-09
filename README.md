@@ -39,6 +39,10 @@ Homelab
 - Hosting: Node-RED, Homebridge, Minecraft (Java / Bedrock)
 - Developing: JavaScript, C#
 
+## More info
+
+https://www.google.com/search?q=entertvl
+
 <!--
 **entertvl/entertvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
