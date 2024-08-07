@@ -41,7 +41,7 @@ Homelab
 
 ## More info
 
-https://www.google.com/search?q=entertvl
+https://www.google.com/search?q=%22entertvl%22
 
 <!--
 **entertvl/entertvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
