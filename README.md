@@ -8,7 +8,7 @@
 
 ## My Jobs
 
-![](https://img.shields.io/badge/new%20job-%20thinking-active?style=flat)
+![](https://img.shields.io/badge/new%20job-%20welcome-active?style=flat)
 
 <dl>
   <dt>Jan 2021 - present</dt>
