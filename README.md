@@ -26,9 +26,9 @@
 - Professional Cloud Security Engineer (2022)
 - Cloud Digital Leader (2022)
 - Associate Cloud Engineer (2021)
+- IPA (Information-technology Promotion Agency, Japan): IP, FE, AP, SC(2009 - 2012)
 
-
-Valid proof to above: [Credly](https://www.credly.com/users/entertvl/badges)
+[Credly](https://www.credly.com/users/entertvl/badges)
 
 ## Favorite things
 
