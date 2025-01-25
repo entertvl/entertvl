@@ -19,6 +19,7 @@
 
 ## Credentials
 
+- Professional Data Engineer (2025)
 - Professional Cloud DevOps Engineer (2025)
 - Professional Cloud Network Engineer (2024)
 - Professional Cloud Database Engineer (2023)
