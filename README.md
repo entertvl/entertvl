@@ -19,6 +19,7 @@
 
 ## Credentials
 
+- Professional Machine Learning Engineer (2025)
 - Professional Data Engineer (2025)
 - Professional Cloud DevOps Engineer (2025)
 - Professional Cloud Network Engineer (2024)
