@@ -28,6 +28,7 @@
 - Professional Cloud Architect (2022)
 - Professional Cloud Security Engineer (2022)
 - Cloud Digital Leader (2022)
+- Associate Data Practitioner (2025)
 - Associate Cloud Engineer (2021)
 - IPA (Information-technology Promotion Agency, Japan): IP, FE, AP, SC(2009 - 2012)
 
