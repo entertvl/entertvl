@@ -19,21 +19,11 @@
 
 ## Credentials
 
-- Professional Machine Learning Engineer (2025)
-- Professional Data Engineer (2025)
-- Professional Cloud DevOps Engineer (2025)
-- Professional Cloud Network Engineer (2024)
-- Professional Cloud Database Engineer (2023)
-- Professional Cloud Developer (2022)
-- Professional Cloud Architect (2022)
-- Professional Cloud Security Engineer (2022)
-- Cloud Digital Leader (2022)
-- Associate Google Workspace Administrator (2025)
-- Associate Data Practitioner (2025)
-- Associate Cloud Engineer (2021)
-- IPA (Information-technology Promotion Agency, Japan): IP, FE, AP, SC(2009 - 2012)
+https://www.credly.com/users/entertvl
 
-[Credly](https://www.credly.com/users/entertvl/badges)
+Other:
+- IPA (Information-technology Promotion Agency, Japan)
+  - IP, FE, AP, SC(2009 - 2012)
 
 ## Favorite things
 
