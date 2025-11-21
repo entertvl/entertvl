@@ -22,7 +22,7 @@
 https://www.credly.com/users/entertvl
 
 - Google Cloud
-  - Google Cloud Partner All Certification Holders 2025
+  - [Google Cloud Partner All Certification Holders 2025](https://cloud.google.com/blog/ja/topics/partners/google-cloud-partner-all-certification-holders-2025)
 - IPA (Information-technology Promotion Agency, Japan)
   - IP, FE, AP, SC(2009 - 2012)
 
